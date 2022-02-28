@@ -1,6 +1,6 @@
 # Compteur-de-visites
 ## L3 ISEI
 <p>
-  PHP <br>
+  PHP (PDO)<br>
   MySQL <br>
 </p>
